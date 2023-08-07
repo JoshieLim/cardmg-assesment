@@ -3,7 +3,9 @@
 * Car Plate Masking with logo
 * Car Damage Object Detection (dents, faded paint, scratch etc...)
 
+Draft Pipeline
 
+![cardmg_draft_pipeline](https://github.com/JoshieLim/cardmg-assesment/assets/54689299/520fdeb4-a01b-44b0-bab3-4b9c61583ef6)
 
 
 
